@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\dev\cppdev\minesweeper\minesweeper\source.cpp(225): error C2039: 'GameLoop': is not a member of 'Game'
+  d:\dev\cppdev\minesweeper\minesweeper\source.cpp(18): note: see declaration of 'Game'
